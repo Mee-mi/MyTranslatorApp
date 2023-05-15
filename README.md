@@ -1,2 +1,2 @@
 # MyTranslatorApp
-My first translation application that translate every language in to every other language using Google Api (Retrofit), Room database . 
+My first translation application that translate into every other language and maintains history using Google Api (Retrofit), Room database . 
